@@ -1,0 +1,6 @@
+html {
+	height: 100vh;
+	box-sizing: border-box;
+	border: 20px solid rgb(184, 255, 237);
+	padding: 20px;
+}
